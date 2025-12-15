@@ -118,7 +118,23 @@ npm install
 ---
 
 ## Postman Images
-###Create a book
+### Create a book
 ![WhatsApp Image 2025-12-15 at 10 03 43 PM](https://github.com/user-attachments/assets/1e02069d-9794-4dae-8b08-9a5a98b09324)
+
+
+### Create a member
+![mem](https://github.com/user-attachments/assets/d6429f55-0981-49f2-8df6-544e721f1cae)
+
+
+### Borrowing a book
+![borrow](https://github.com/user-attachments/assets/0867a10a-462c-4ef7-b22c-718d8b54e020)
+
+### Showing the books
+
+![show books](https://github.com/user-attachments/assets/e953d984-bbf4-40d7-a5ea-908238dfa71b)
+
+
+
+
 
 
