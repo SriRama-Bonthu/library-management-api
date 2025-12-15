@@ -116,3 +116,9 @@ npm install
 - A book cannot be borrowed if its status is not `available`
 
 ---
+
+## Postman Images
+###Create a book
+![WhatsApp Image 2025-12-15 at 10 03 43 PM](https://github.com/user-attachments/assets/1e02069d-9794-4dae-8b08-9a5a98b09324)
+
+
